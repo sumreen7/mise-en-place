@@ -1,0 +1,27 @@
+{
+  "tier": "ambiguous",
+  "response": {
+    "dish_name": "Grandma Style Curry",
+    "cuisine": "Indian",
+    "estimated_servings": 4,
+    "ingredients": [
+      {"name": "onion", "quantity": "2", "unit": "piece", "optional": false},
+      {"name": "tomato", "quantity": "2", "unit": "piece", "optional": false},
+      {"name": "chicken", "quantity": "500", "unit": "g", "optional": false},
+      {"name": "turmeric powder", "quantity": "1", "unit": "tsp", "optional": false},
+      {"name": "vegetable oil", "quantity": "2", "unit": "tbsp", "optional": false}
+    ],
+    "equipment": [],
+    "prep_time_minutes": 30,
+    "spice_level": "medium",
+    "confidence": 0.5,
+    "ambiguity": {
+      "level": "high",
+      "alternates": [
+        {"cuisine": "Thai", "protein": "chicken"},
+        {"cuisine": "Japanese", "protein": "beef"},
+        {"cuisine": "Caribbean", "protein": "goat"}
+      ]
+    }
+  }
+}

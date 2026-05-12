@@ -1,0 +1,21 @@
+{
+  "tier": "medium",
+  "response": {
+    "dish_name": "Ramen",
+    "cuisine": "Japanese",
+    "estimated_servings": 2,
+    "ingredients": [
+      {"name": "ramen noodles", "quantity": "2", "unit": "piece", "optional": false},
+      {"name": "chicken broth", "quantity": "4", "unit": "cup", "optional": false},
+      {"name": "soy sauce", "quantity": "2", "unit": "tbsp", "optional": false},
+      {"name": "miso paste", "quantity": "1", "unit": "tbsp", "optional": false},
+      {"name": "egg", "quantity": "2", "unit": "piece", "optional": false},
+      {"name": "spring onion", "quantity": "2", "unit": "piece", "optional": true}
+    ],
+    "equipment": ["pot"],
+    "prep_time_minutes": 25,
+    "spice_level": "mild",
+    "confidence": 0.7,
+    "ambiguity": {"level": "medium", "alternates": []}
+  }
+}

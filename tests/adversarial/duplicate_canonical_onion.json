@@ -1,0 +1,17 @@
+{
+  "tier": "adversarial",
+  "response": {
+    "dish_name": "Bad Merge Example",
+    "cuisine": "Unknown",
+    "estimated_servings": 2,
+    "ingredients": [
+      {"name": "onion", "quantity": "1", "unit": "piece", "optional": false},
+      {"name": "onion", "quantity": "0.5", "unit": "piece", "optional": false}
+    ],
+    "equipment": [],
+    "prep_time_minutes": 5,
+    "spice_level": "mild",
+    "confidence": 0.2,
+    "ambiguity": {"level": "high", "alternates": []}
+  }
+}

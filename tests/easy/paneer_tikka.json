@@ -1,0 +1,23 @@
+{
+  "tier": "easy",
+  "response": {
+    "dish_name": "Paneer Tikka",
+    "cuisine": "North Indian",
+    "estimated_servings": 4,
+    "ingredients": [
+      {"name": "paneer", "quantity": "400", "unit": "g", "optional": false},
+      {"name": "yogurt", "quantity": "200", "unit": "g", "optional": false},
+      {"name": "ginger-garlic paste", "quantity": "1", "unit": "tbsp", "optional": false},
+      {"name": "garam masala", "quantity": "1", "unit": "tsp", "optional": false},
+      {"name": "red chili powder", "quantity": "0.5", "unit": "tsp", "optional": false},
+      {"name": "lemon juice", "quantity": "1", "unit": "tbsp", "optional": false},
+      {"name": "vegetable oil", "quantity": "2", "unit": "tbsp", "optional": false},
+      {"name": "bell pepper", "quantity": "1", "unit": "piece", "optional": false}
+    ],
+    "equipment": ["grill or oven"],
+    "prep_time_minutes": 20,
+    "spice_level": "medium",
+    "confidence": 0.85,
+    "ambiguity": {"level": "low", "alternates": []}
+  }
+}
