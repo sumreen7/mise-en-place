@@ -1,0 +1,62 @@
+[
+  {
+    "id": "ingredient_onion",
+    "canonical_name": "onion",
+    "aliases": ["onions", "white onion", "white onions", "yellow onion", "red onion", "sweet onion"],
+    "category": "vegetable"
+  },
+  {
+    "id": "ingredient_tomato",
+    "canonical_name": "tomato",
+    "aliases": ["tomatoes", "roma tomato", "cherry tomato"],
+    "category": "vegetable"
+  },
+  {
+    "id": "ingredient_garlic",
+    "canonical_name": "garlic",
+    "aliases": ["garlic clove", "garlic cloves"],
+    "category": "vegetable"
+  },
+  {
+    "id": "ingredient_ginger",
+    "canonical_name": "ginger",
+    "aliases": ["fresh ginger", "ginger root"],
+    "category": "vegetable"
+  },
+  {
+    "id": "ingredient_paneer",
+    "canonical_name": "paneer",
+    "aliases": ["indian cottage cheese"],
+    "category": "dairy"
+  },
+  {
+    "id": "ingredient_chicken",
+    "canonical_name": "chicken",
+    "aliases": ["chicken breast", "chicken thigh", "chicken pieces"],
+    "category": "meat"
+  },
+  {
+    "id": "ingredient_yogurt",
+    "canonical_name": "yogurt",
+    "aliases": ["greek yogurt", "plain yogurt", "curd"],
+    "category": "dairy"
+  },
+  {
+    "id": "ingredient_rice",
+    "canonical_name": "rice",
+    "aliases": ["basmati rice", "jasmine rice", "cooked rice"],
+    "category": "grain"
+  },
+  {
+    "id": "ingredient_coriander_leaves",
+    "canonical_name": "coriander leaves",
+    "aliases": ["cilantro", "fresh cilantro", "coriander leaf"],
+    "category": "vegetable"
+  },
+  {
+    "id": "ingredient_spring_onion",
+    "canonical_name": "spring onion",
+    "aliases": ["green onion", "green onions", "scallion", "scallions"],
+    "category": "vegetable"
+  }
+]
